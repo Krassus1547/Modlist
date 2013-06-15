@@ -1,0 +1,42 @@
+GermanMCTekkit - Modlist:
+  Coremods:
+		BlockPhysics
+		CodeChickenCore
+		GuiAPI
+		ID-Resolver
+		NEI
+		PowerCrystalsCore
+
+	mods:
+		[C]BackTools
+		[C]Chat-Bubbles
+		[C]ImprovedFirstPerson
+		[C]InvTweaks
+		[C]neiplugins
+		[C]neipluginsredpower
+		[C]ReiMinimap
+		[C]TooManyItems
+		[U]BetterStorage
+		[U]BiblioCraft
+		[U]buildcraft3
+		[U]ChickenChunks
+		[U]ComputerCraft
+		[U]EightBitPack
+		[U]Fishnet
+		[U]Flans Mod
+		[U]Flower-Propagation
+		[U]immibis-core
+		[U]industrialcraft2
+		[U]PlastiCraft
+		[U]Pony Pack
+		[U]RedPower2 (4)
+		[U]Roof-Mod
+		[U]StillHungry
+		[U]Traincraft 3
+		[U]UsefullFood
+
+	Server:
+		RealLan
+		RecipeRemover
+		MyTown
+		PermissionsEx
